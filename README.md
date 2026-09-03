@@ -41,4 +41,4 @@ SystemVerilog · UVM · RISC-V · computer architecture · cache coherence ·
 constrained-random and coverage-driven verification · C++ · Python ·
 Verilator, Vivado/XSim, Spike
 
-**chowdh48@purdue.edu**
+**zxrifchowdhury@gmail.com**
