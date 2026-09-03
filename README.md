@@ -11,13 +11,13 @@ less than the green result suggests.
 
 ### Projects
 
-**[RV32IM](https://github.com/ahmed-inam/RV32IM)**: a dual-core, two-wide
+**[Dual-core out-of-order RISC-V](https://github.com/ahmed-inam/dual-core-two-wide-superscalar-out-of-order-riscv)**: a dual-core, two-wide
 out-of-order RISC-V processor with a UVM verification environment.
 Two harts, speculative execution, private L1s kept coherent with MESI over an
 AXI4 crossbar, LR/SC atomics and a CLINT. ~9,700 lines of SystemVerilog, checked
 instruction-by-instruction against Spike across ~189,000 instructions, with 757
 coverage bins and mutation testing behind the result. Written from nothing over
-seven stages. Start with [`docs/overview.pdf`](https://github.com/ahmed-inam/RV32IM/blob/main/docs/overview.pdf).
+seven stages. Start with [`docs/overview.pdf`](https://github.com/ahmed-inam/dual-core-two-wide-superscalar-out-of-order-riscv/blob/main/docs/overview.pdf).
 
 **[AXI4](https://github.com/ahmed-inam/AXI4)**: a synthesizable 2×2 AXI4
 crossbar. Full five-channel signalling, bursts, multiple outstanding
